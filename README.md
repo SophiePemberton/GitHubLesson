@@ -18,7 +18,9 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
 
-## Variables Measured 2
+## Variables
+
+
 
 The dataset includes the following morphological measurements:
 
